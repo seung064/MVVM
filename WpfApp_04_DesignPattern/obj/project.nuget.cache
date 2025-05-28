@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvr8DetdPn0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gli05\\Desktop\\WpfApp_04_DesignPattern\\WpfApp_04_DesignPattern\\WpfApp_04_DesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gli05\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
